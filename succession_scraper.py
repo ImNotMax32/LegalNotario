@@ -88,19 +88,6 @@ class SuccessionScraper:
             }
         }
 
-    def create_clause_history(self, clause_data):
-        """Crée l'historique initial pour une nouvelle clause"""
-        return {
-            "versions": [
-                {
-                    "date": datetime.now().isoformat(),
-                    "type": "creation",
-                    "changes": ["initial_creation"],
-                    "snapshot": clause_data.copy()
-                }
-            ]
-        }
-
     def scrape_website(self, url):
         """Récupère le contenu d'un site web avec retry."""
         headers = {
@@ -233,8 +220,7 @@ IMPORTANT:
                         "exceptions": clause['exceptions'],
                         "references": clause['references'],
                         "mots_cles": clause['mots_cles']
-                    },
-                    "history": self.create_clause_history(clause)
+                    }
                 }
                 print(f"✓ Nouvelle clause ajoutée : {clause['titre']}")
             else:
@@ -261,14 +247,6 @@ IMPORTANT:
                         "exceptions": clause['exceptions'],
                         "references": clause['references'],
                         "mots_cles": clause['mots_cles']
-                    })
-                    
-                    # Ajouter à l'historique
-                    existing_clause['history']['versions'].append({
-                        "date": current_time,
-                        "type": "update",
-                        "changes": ["content_update"],
-                        "snapshot": clause.copy()
                     })
                     print(f"✓ Clause mise à jour : {clause['titre']}")
                 

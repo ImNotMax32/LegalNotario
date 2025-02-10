@@ -140,23 +140,10 @@ Ne te base pas sur la similarité exacte du texte, mais sur le sens juridique.""
             }
         }
 
-        # Fusionner les historiques
-        merged_history = {
-            "versions": clause1['history']['versions'] + clause2['history']['versions']
-        }
-        merged_history['versions'].append({
-            "date": current_time,
-            "type": "merge",
-            "changes": ["fusion_clauses"],
-            "merged_from": [key1, key2],
-            "snapshot": merged_content.copy()
-        })
-
         # Créer la clause finale
         merged_clause = {
             "metadata": merged_metadata,
-            "content": merged_content,
-            "history": merged_history
+            "content": merged_content
         }
 
         return merged_clause
