@@ -1,0 +1,413 @@
+{
+    "last_update": "2025-02-10T11:37:18.777165",
+    "clauses": {
+        "quotité_disponible_quotité_disponible": {
+            "type": "quotité_disponible",
+            "titre": "Quotité disponible",
+            "description": "La quotité disponible est la partie du patrimoine du défunt qui peut être librement transmise par testament. Elle varie selon la présence d'héritiers réservataires.",
+            "conditions": [
+                "La quotité disponible varie en fonction de la présence ou non de descendants et de leur nombre.",
+                "Existence d'héritiers réservataires"
+            ],
+            "exceptions": [],
+            "references": [
+                "Article 894 du Code civil"
+            ],
+            "mots_cles": [
+                "Testament",
+                "héritiers réservataires",
+                "testament",
+                "Donation",
+                "testaments",
+                "quotité disponible",
+                "Liberté de disposition",
+                "héritage"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-07T17:07:14.007506"
+                }
+            ],
+            "date_creation": "2025-02-07T17:07:14.007506",
+            "date_modification": "2025-02-10T10:37:07.355782"
+        },
+        "héritiers_réservataires_héritiers_réservataires": {
+            "type": "héritiers_réservataires",
+            "titre": "Héritiers réservataires",
+            "description": "Les héritiers réservataires sont des personnes qui ne peuvent être privées de leur part d'héritage, même par testament. Ces héritiers sont les enfants, les petits-enfants, les conjoints et les ascendants dans certains cas.",
+            "conditions": [
+                "Aucune"
+            ],
+            "exceptions": [],
+            "references": [
+                "Article 912 du Code civil"
+            ],
+            "mots_cles": [
+                "enfants",
+                "héritiers réservataires",
+                "part minimale",
+                "conjoints",
+                "réserve héréditaire",
+                "petits-enfants",
+                "loi",
+                "Réserve héréditaire",
+                "ascendants",
+                "Protection des héritiers"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-07T17:07:14.007506"
+                }
+            ],
+            "date_creation": "2025-02-07T17:07:14.007506",
+            "date_modification": "2025-02-10T10:37:07.355782"
+        },
+        "testament_testament": {
+            "type": "testament",
+            "titre": "Testament",
+            "description": "Un testament est un acte écrit et signé par lequel une personne exprime ses dernières volontés quant à la répartition de ses biens après son décès.",
+            "conditions": [
+                "Le testament doit être rédigé en présence de deux témoins ou d'un notaire.",
+                "Le testateur doit être sain d'esprit et majeur.",
+                "Le testateur doit être majeur et sain d'esprit. Le testament doit être écrit, daté et signé de la main du testateur."
+            ],
+            "exceptions": [
+                "Il existe des exceptions à l'exigence d'un testament écrit, comme les testaments olographes ou les testaments mystiques."
+            ],
+            "references": [
+                "Articles 967 et suivants du Code civil"
+            ],
+            "mots_cles": [
+                "testateur",
+                "testament",
+                "Déclaration de dernières volontés",
+                "Héritage",
+                "répartition des biens",
+                "volontés"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-07T17:07:14.007506"
+                }
+            ],
+            "date_creation": "2025-02-07T17:07:14.007506",
+            "date_modification": "2025-02-10T11:37:18.777165"
+        },
+        "fiscalité_fiscalité_des_successions": {
+            "type": "fiscalité",
+            "titre": "Fiscalité des successions",
+            "description": "Les successions sont soumises à des droits de succession, dont le montant varie en fonction du lien de parenté entre le défunt et l'héritier.",
+            "conditions": [
+                "Les droits de succession varient en fonction du lien de parenté entre le défunt et les héritiers.",
+                "Le montant de l'abattement fiscal varie en fonction du degré de parenté entre le défunt et l'héritier."
+            ],
+            "exceptions": [
+                "Certains biens, comme les résidences principales, bénéficient d'un abattement fiscal spécifique."
+            ],
+            "references": [
+                "Article 766 du Code général des impôts"
+            ],
+            "mots_cles": [
+                "lien de parenté",
+                "Droits de succession",
+                "droits de succession",
+                "Impôts",
+                "fiscalité des successions",
+                "fiscalité",
+                "abattement fiscal"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-07T17:07:14.007506"
+                }
+            ],
+            "date_creation": "2025-02-07T17:07:14.007506",
+            "date_modification": "2025-02-10T11:37:18.777165"
+        },
+        "acceptation_renonciation_succession_acceptation_ou_renonciation_de_la_succession": {
+            "type": "acceptation_renonciation_succession",
+            "titre": "Acceptation ou renonciation de la succession",
+            "description": "Les héritiers ont le choix d'accepter la succession ou d'y renoncer. L'acceptation se fait par un acte notarié ou par une possession effective des biens. La renonciation se fait par une déclaration au greffe du tribunal judiciaire.",
+            "conditions": [
+                "Ouverture de la succession"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "acceptation",
+                "renonciation",
+                "succession"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "partage_biens_partage_des_biens": {
+            "type": "partage_biens",
+            "titre": "Partage des biens",
+            "description": "Le partage des biens est effectué entre les héritiers qui ont accepté la succession. Il peut se faire amiablement entre les héritiers ou par voie judiciaire si un accord n'est pas possible.",
+            "conditions": [
+                "Acceptation de la succession"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "partage",
+                "biens",
+                "héritiers"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "indivision_héritiers_indivision_entre_les_héritiers": {
+            "type": "indivision_héritiers",
+            "titre": "Indivision entre les héritiers",
+            "description": "Lorsque les héritiers n'ont pas encore partagé les biens, ils se trouvent en indivision. Ils possèdent alors les biens en commun et doivent prendre les décisions concernant leur gestion à l'unanimité.",
+            "conditions": [
+                "Plusieurs héritiers acceptent la succession"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "indivision",
+                "héritiers",
+                "gestion"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "option_successorale_option_successorale": {
+            "type": "option_successorale",
+            "titre": "Option successorale",
+            "description": "Les héritiers ont la possibilité d'opter pour différentes modalités de répartition de l'héritage, comme l'acceptation pure et simple, l'acceptation à concurrence de l'actif net ou la renonciation.",
+            "conditions": [
+                "Ouverture de la succession"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "option successorale",
+                "répartition",
+                "héritage"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "testaments_testaments": {
+            "type": "testaments",
+            "titre": "Testaments",
+            "description": "Le testament est un acte par lequel une personne exprime ses dernières volontés concernant la répartition de ses biens après son décès. Il permet de déroger aux règles légales de succession.",
+            "conditions": [
+                "Capacité juridique de la personne"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "testaments",
+                "dernières volontés",
+                "répartition"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "notaire_obligatoire_intervention_d'un_notaire": {
+            "type": "notaire_obligatoire",
+            "titre": "Intervention d'un notaire",
+            "description": "Dans certains cas, l'intervention d'un notaire est obligatoire pour le règlement d'une succession, comme pour l'établissement de l'acte de notoriété ou la liquidation de la succession.",
+            "conditions": [
+                "Selon les circonstances de la succession"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "notaire",
+                "intervention",
+                "succession"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "rapport_civil_rapport_civil": {
+            "type": "rapport_civil",
+            "titre": "Rapport civil",
+            "description": "Le rapport civil est une obligation pour les héritiers qui ont reçu des donations du défunt de son vivant. Ils doivent les inclure dans la succession pour assurer l'égalité entre les héritiers.",
+            "conditions": [
+                "Donations antérieures au décès"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "rapport civil",
+                "donations",
+                "égalité"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "fiscalité_succession_fiscalité_des_successions": {
+            "type": "fiscalité_succession",
+            "titre": "Fiscalité des successions",
+            "description": "Les successions sont soumises à des droits de succession. Ceux-ci varient selon le montant de l'héritage et le degré de parenté entre le défunt et les héritiers.",
+            "conditions": [
+                "Ouverture de la succession"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "fiscalité",
+                "succession",
+                "droits"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "mandat_gestion_succession_mandat_de_gestion_de_la_succession": {
+            "type": "mandat_gestion_succession",
+            "titre": "Mandat de gestion de la succession",
+            "description": "Les héritiers peuvent désigner une personne pour gérer la succession. Ce mandat peut être donné par testament ou par acte notarié.",
+            "conditions": [
+                "Accord entre les héritiers"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "mandat",
+                "gestion",
+                "succession"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "succession_sans_héritier_succession_sans_héritier": {
+            "type": "succession_sans_héritier",
+            "titre": "Succession sans héritier",
+            "description": "Lorsque le défunt n'a pas d'héritier, ses biens sont dévolus à l'État.",
+            "conditions": [
+                "Absence d'héritiers"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "succession",
+                "sans héritier",
+                "État"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "droits_succession_droits_de_succession": {
+            "type": "droits_succession",
+            "titre": "Droits de succession",
+            "description": "Les droits de succession sont des impôts appliqués sur la valeur des biens transmis lors d'une succession.",
+            "conditions": [
+                "Ouverture de la succession"
+            ],
+            "exceptions": [],
+            "references": [],
+            "mots_cles": [
+                "droits",
+                "succession",
+                "impôts"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T09:36:56.517519"
+                }
+            ],
+            "date_creation": "2025-02-10T09:36:56.517519",
+            "date_modification": "2025-02-10T09:36:56.517519"
+        },
+        "héritiers_réservataires_héritiers_réservataires_et_quotité_disponible": {
+            "type": "héritiers_réservataires",
+            "titre": "Héritiers réservataires et quotité disponible",
+            "description": "En droit français, les héritiers réservataires (enfants, parents) ont droit à une part minimale de la succession, appelée la quotité disponible.",
+            "conditions": [
+                "L'héritier réservataire doit être un descendant ou un ascendant du défunt."
+            ],
+            "exceptions": [
+                "Si le défunt a des enfants ou des petits-enfants, la quotité disponible est limitée à la moitié de la succession. Si le défunt n'a pas de descendants, mais des parents, la quotité disponible est limitée aux trois quarts de la succession."
+            ],
+            "references": [],
+            "mots_cles": [
+                "héritier réservataire",
+                "quotité disponible"
+            ],
+            "sources": [
+                {
+                    "url": "https://www.service-public.fr/particuliers/vosdroits/N171",
+                    "date_added": "2025-02-10T11:37:18.777165"
+                }
+            ],
+            "date_creation": "2025-02-10T11:37:18.777165",
+            "date_modification": "2025-02-10T11:37:18.777165"
+        }
+    },
+    "sources": [
+        "https://www.service-public.fr/particuliers/vosdroits/N171",
+        "https://www.legifrance.gouv.fr"
+    ]
+}
